@@ -5,7 +5,7 @@
 #define simple_order_book_h
 
 #include "simple_order.h"
-#include "book/depth_order_book.h"
+#include "../book/depth_order_book.h"
 #include <iostream>
 
 namespace liquibook { namespace impl {

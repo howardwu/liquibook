@@ -3,9 +3,9 @@
 // See the file license.txt for licensing information.
 #include "assertiv/assertiv.h"
 #include "changed_checker.h"
-#include "book/order_book.h"
-#include "impl/simple_order.h"
-#include "impl/simple_order_book.h"
+#include "../../src/book/order_book.h"
+#include "../../src/impl/simple_order.h"
+#include "../../src/impl/simple_order_book.h"
 
 using namespace liquibook::book;
 

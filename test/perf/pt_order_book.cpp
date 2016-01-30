@@ -1,8 +1,8 @@
 // Copyright (c) 2012, 2013 Object Computing, Inc.
 // All rights reserved.
 // See the file license.txt for licensing information.
-#include "impl/simple_order_book.h"
-#include "book/types.h"
+#include "../../src/impl/simple_order_book.h"
+#include "../../src/book/types.h"
 
 #include <iostream>
 #include <stdexcept>

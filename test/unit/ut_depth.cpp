@@ -2,7 +2,7 @@
 // All rights reserved.
 // See the file license.txt for licensing information.
 #include "assertiv/assertiv.h"
-#include "book/depth.h"
+#include "../../src/book/depth.h"
 #include "changed_checker.h"
 #include <iostream>
 

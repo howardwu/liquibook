@@ -1,7 +1,7 @@
 #ifndef example_order_h
 #define example_order_h
 
-#include "book/order.h"
+#include "../../src/book/order.h"
 
 namespace liquibook { namespace examples {
 

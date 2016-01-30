@@ -2,7 +2,7 @@
 #define example_order_book_h
 
 #include "order.h"
-#include "book/depth_order_book.h"
+#include "../../src/book/depth_order_book.h"
 #include <boost/shared_ptr.hpp>
 
 namespace liquibook { namespace examples {

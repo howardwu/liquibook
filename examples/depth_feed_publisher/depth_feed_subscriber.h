@@ -11,7 +11,7 @@
 
 #include "template_consumer.h"
 #include "depth_feed_connection.h"
-#include "book/depth.h"
+#include "../../src/book/depth.h"
 
 namespace QuickFAST { namespace Messages {
   class Message;

@@ -4,8 +4,8 @@
 #include "assertiv/assertiv.h"
 #include "ut_utils.h"
 #include "changed_checker.h"
-#include "book/order_book.h"
-#include "impl/simple_order.h"
+#include "../../src/book/order_book.h"
+#include "../../src/impl/simple_order.h"
 
 namespace liquibook {
 

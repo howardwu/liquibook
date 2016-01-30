@@ -4,8 +4,8 @@
 #ifndef simpleorder_h
 #define simpleorder_h
 
-#include "book/order.h"
-#include "book/types.h"
+#include "../book/order.h"
+#include "../book/types.h"
 
 namespace liquibook { namespace impl {
 

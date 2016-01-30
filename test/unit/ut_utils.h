@@ -4,9 +4,9 @@
 #ifndef ut_utils_h
 #define ut_utils_h
 
-#include "book/order_book.h"
-#include "impl/simple_order_book.h"
-#include "impl/simple_order.h"
+#include "../../src/book/order_book.h"
+#include "../../src/impl/simple_order_book.h"
+#include "../../src/impl/simple_order.h"
 
 using namespace liquibook::book;
 
